@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Renz Pastrana
 
-<!--
-**rxaviery/rxaviery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & mobile developer based in Davao City, PH.
+Currently building two capstone projects at UIC.
 
-Here are some ideas to get you started:
+**Stack:** React Native · TypeScript · Flutter · Supabase · FastAPI · Expo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 FixFinder [![TBI-backed](https://img.shields.io/badge/TBI-backed-brightgreen)]()
+Home services marketplace for Davao.
+Homeowners post jobs → workers respond → Gemini 2.5 Flash estimates pricing.
+`React Native` `Expo SDK 54` `Supabase` `Firebase FCM` `TypeScript`
+
+#### 🎵 fitNEST [![WIP](https://img.shields.io/badge/status-WIP-orange)]()
+Voice-based exercise intensity classifier for PE classes.
+MFCC audio features → RFC/SVM/CNN comparison → TFLite on-device inference.
+`Flutter` `FastAPI` `Librosa` `scikit-learn` `TFLite`
+
+---
+
+📍 Davao City · 🎓 UIC · 📬 open to collabs
