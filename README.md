@@ -1,7 +1,7 @@
 ### Hi, I'm Renz Pastrana
 
 Full-stack & mobile developer based in Davao City, PH.
-Currently building two capstone projects at UIC.
+Currently building two projects at UIC.
 
 **Stack:** React Native · TypeScript · Flutter · Supabase · FastAPI · Expo
 
@@ -9,7 +9,7 @@ Currently building two capstone projects at UIC.
 
 #### 🔧 FixFinder [![TBI-backed](https://img.shields.io/badge/TBI-backed-brightgreen)]()
 Home services marketplace for Davao.
-Homeowners post jobs → workers respond → Gemini 2.5 Flash estimates pricing.
+Homeowners post jobs → workers respond → Gemini 2.5 Flash estimates pricing (Temporarily).
 `React Native` `Expo SDK 54` `Supabase` `Firebase FCM` `TypeScript`
 
 #### 🎵 fitNEST [![WIP](https://img.shields.io/badge/status-WIP-orange)]()
