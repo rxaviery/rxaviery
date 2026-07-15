@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Renz Pastrana**
+# 👋 Hi, I'm Renz Pastrana
 
-### 💻 Full-Stack & Mobile Developer from 🇵🇭 Davao City
+### Aspiring Full-Stack & Mobile Developer from Davao City, Philippines
 
-Building software that solves real-world problems through modern web, mobile, and AI technologies.
+
+BBuilding modern web and mobile applications while exploring AI, cloud technologies, and scalable software solutions.
+
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -12,78 +14,71 @@ Building software that solves real-world problems through modern web, mobile, an
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 ### 🔧 FixFinder
-> **TBI-backed Startup Project**
-
-A smart home-services marketplace connecting homeowners with trusted workers in Davao City.
-
-**Highlights**
-- 📍 Location-based service matching
-- 🤖 AI-assisted price estimation *(Gemini 2.5 Flash)*
-- 🔔 Real-time notifications
-- 💬 Chat & booking workflow
-
-**Tech Stack**
-
-`React Native` • `Expo SDK 54` • `TypeScript` • `Supabase` • `Firebase Cloud Messaging`
-
----
+A **TBI-backed** home services marketplace connecting homeowners with skilled workers in Davao City. Built with **React Native, Expo, Supabase, Firebase, and TypeScript**.
 
 ### 🎵 fitNEST
-> **Research Project | University of the Immaculate Conception**
+An AI-powered mobile application that classifies exercise intensity using voice recordings with **Flutter, FastAPI, Python, and TensorFlow Lite**.
 
-An AI-powered mobile application that classifies exercise intensity using voice recordings.
-
-**Highlights**
-- 🎤 Voice-based exercise monitoring
-- 🧠 MFCC feature extraction
-- 📊 RFC vs SVM vs CNN performance comparison
-- 📱 Offline TensorFlow Lite inference
-
-**Tech Stack**
-
-`Flutter` • `FastAPI` • `Librosa` • `scikit-learn` • `TensorFlow Lite`
+### 🎼 Book-It-Now
+A full-stack management system developed for the **University of the Immaculate Conception – College of Music**, featuring room reservations, digital logbooks, instrument inventory, student records, and administrative reporting.
 
 ---
 
-## 💼 What I'm Working With
+## 📊 GitHub Stats
 
-```text
-Frontend      React • React Native • Flutter
-Backend       FastAPI • Supabase
-Database      PostgreSQL • Firebase
-Languages     TypeScript • Dart • Python
-Tools         Git • GitHub • VS Code • Figma
-```
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rxaviery&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxaviery&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## 🌱 Currently Learning
-
-- AI Integration for Mobile Apps
-- Backend System Architecture
-- Cloud Deployment
-- Machine Learning for Mobile
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rxaviery&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📍 About Me
+## 🛠️ Tech Stack
 
-🎓 BS Information Technology Student @ University of the Immaculate Conception
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,dart" />
+</p>
 
-📍 Davao City, Philippines
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
 
-🤝 Open to collaborations, startup projects, and open-source contributions
+### Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,firebase" />
+</p>
 
-📫 Reach me anytime!
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+**Also experienced with:** Expo • TensorFlow Lite • scikit-learn • Librosa
 
 ---
+
+## 📫 Connect
+
+📍 Davao City, Philippines  
+🎓 BS Information Technology — University of the Immaculate Conception  
+🤝 Open to collaborations, startups, and open-source projects.
