@@ -5,7 +5,7 @@
 ### Aspiring Full-Stack & Mobile Developer from Davao City, Philippines
 
 
-BBuilding modern web and mobile applications while exploring AI, cloud technologies, and scalable software solutions.
+Building modern web and mobile applications while exploring AI, cloud technologies, and scalable software solutions.
 
 
 <p>
