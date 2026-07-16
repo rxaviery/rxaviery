@@ -29,7 +29,7 @@ A **TBI-backed** home services marketplace connecting homeowners with skilled wo
 An AI-powered mobile application that classifies exercise intensity using voice recordings with **Flutter, FastAPI, Python, and TensorFlow Lite**.
 
 ### 🎼 Book-It-Now
-A full-stack management system developed for the **University of the Immaculate Conception – College of Music**, featuring room reservations, digital logbooks, instrument inventory, student records, and administrative reporting.
+A full-stack management system developed for the **University of the Immaculate Conception – College of Music**, featuring RFID-based attendance and access logging, room reservations, digital logbooks, instrument inventory, student records, and administrative reporting.
 
 ---
 
