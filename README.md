@@ -80,5 +80,5 @@ A full-stack management system developed for the **University of the Immaculate 
 ## 📫 Connect
 
 📍 Davao City, Philippines  
-🎓 BS Information Technology — University of the Immaculate Conception  
+🎓 BS in Information Technology — University of the Immaculate Conception  
 🤝 Open to collaborations, startups, and open-source projects.
