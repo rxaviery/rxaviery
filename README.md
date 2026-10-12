@@ -25,7 +25,7 @@ Building modern web and mobile applications while exploring AI, cloud technologi
 ### 🔧 FixFinder
 A **TBI-backed** home services marketplace connecting homeowners with skilled workers in Davao City. Built with **React Native, Expo, Supabase, Firebase, and TypeScript**.
 
-### 🎵 fitNEST
+### 🎵 FitNESS
 An AI-powered mobile application that classifies exercise intensity using voice recordings with **Flutter, FastAPI, Python, and TensorFlow Lite**.
 
 ### 🎼 Book-It-Now
